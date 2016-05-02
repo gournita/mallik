@@ -2,6 +2,6 @@
 public class hellotest {
 @Test
 public void test(){
-	System.out.println("mallik");
+	System.out.println("mallaik");
 }
 }
